@@ -5,4 +5,8 @@
 - [untiny.me](http://untiny.me/)——找到缩写网址的原始域名。   
 - [localti.me](http://localti.me/)——能查询不止一个城市的当地时间。   
 - [copypastecharacter.com](http://copypastecharacter.com/)——复制你键盘上没有的特殊字符。   
-- [topsy.com](http://topsy.com/)——Twitter专用搜索引擎。
+- [topsy.com](http://topsy.com/)——Twitter专用搜索引擎。   
+- [fb.me](http://fb.me/)/[AppStore](https://developer.apple.com/app-store/)——无需运行iTunes就可以搜索ios的手机应用。   
+- [iconfinder.com](https://www.iconfinder.com/)——在这里可以找到图标的所有尺寸。   
+- [office.com](https://www.office.com/)——下载办公文件的模板、剪贴画以及图片。   
+- [woorank.com](https://www.woorank.com/)——你想知道的关于一个网站的所有信息都可以在这里找到
