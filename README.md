@@ -9,4 +9,14 @@
 - [fb.me](http://fb.me/)/[AppStore](https://developer.apple.com/app-store/)——无需运行iTunes就可以搜索ios的手机应用。   
 - [iconfinder.com](https://www.iconfinder.com/)——在这里可以找到图标的所有尺寸。   
 - [office.com](https://www.office.com/)——下载办公文件的模板、剪贴画以及图片。   
-- [woorank.com](https://www.woorank.com/)——你想知道的关于一个网站的所有信息都可以在这里找到
+- [woorank.com](https://www.woorank.com/)——你想知道的关于一个网站的所有信息都可以在这里找到。   
+- [virustotal.com](http://virustotal.com/)——对任何可疑的文件或者邮件附件进行病毒扫描。   
+- [wolfeamalpha.com](http://wolfeamalpha.com/)——不用搜索就可以知道问题的答案——更多信息，请阅读Wolfram提示。   
+- [joliprint.com](https://joliprint.com/)——将新闻和博客内容重新整合为报纸。   
+- [isnsfw.com](http://isnsfw.com/)——当你想要分享18X网页时为你做警示标志。   
+- [e.ggtimer.com](http://e.ggtimer.com/)——一个居家常备的建议在线计时器。   
+- [coralcdn.org](http://coralcdn.org/)——帮你随机挑选数字，抛硬币。   
+- [mawot.com](http://mawot.com/)——测试任意网站的可信任指数。   
+- [viewer.zoho.com](http://viewer.zoho.com/)——帮你用浏览器来预览PDF文件和PPT。   
+- [tubemogul.com](https://www.tubemogul.com/)——同时向多个视频网站上传视频。   
+- [truveo.com](http://truveo.com/)——最佳网络视频搜索。
